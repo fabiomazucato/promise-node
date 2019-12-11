@@ -15,7 +15,3 @@ Os exemplos foram separados em cinco arquivos com contextos diferentes, formas e
 -   method_3.js - **Promise sem callback**
 -   method_4.js - **Promise com callback**
 -   method_5.js - **Promise all**
-
-## Referência do estudo
-
--   Lucas Santos: [Entendendo Promises de uma vez por todas](https://medium.com/trainingcenter/entendendo-promises-de-uma-vez-por-todas-32442ec725c2).
