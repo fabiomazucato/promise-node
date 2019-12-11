@@ -1,0 +1,14 @@
+DATA 4
+
+Quais são as origens de Lorem Ipsum?
+Contrariamente ao que se poderia pensar, o texto de Lorem ipsum, apesar de não ter sentido, tem origens nobres.
+
+Objetivamente composto de palavras não relacionadas, Lorem ipsum deve sua existência a Marco Tullio Cicerone e a alguns passos de seu De finibus bonorum et malorum (O mais alto bom e o mais alto mal) escrito em 45 aC , um clássico da literatura latina que remonta há mais de 2000 anos.
+
+A descoberta foi feita por Richard McClintock , um professor de latino em Hampden-Sydney College na Virgínia, que enfrentou a impetuosa recorrência da palavra escura consectetur no texto Lorem ipsum pesquisou suas origens para identificá-las nas seções 1.10.32 e 1.10.33 do trabalho filosófico acima mencionado de Cicero.
+
+As palavras tiradas de um dos diálogos contidos no De finibus são, portanto, as peças do texto sem sentido mais famoso do mundo.
+
+Uma descoberta que deu maior importância ao Lorem ipsum que permaneceu na crista da onda desde 500, ou seja, quando, segundo o professor Richard McClintock, seu uso se espalhou entre as impressoras da época.
+
+Claro que sabemos que, para o mais conhecido, foi uma publicidade dos anos sessenta, a das folhas de caracteres transferíveis Letraset: folhas adesivas transparentes nas quais o texto Lorem ipsum foi impresso facilmente transferível nos produtos editoriais antes do advento do computador.
